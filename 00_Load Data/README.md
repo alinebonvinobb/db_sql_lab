@@ -1,6 +1,6 @@
 
 <img src="https://raw.githubusercontent.com/Databricks-BR/lab_sql/main/images/header_handson_sql.png">
-
+Meu primeiro commit pelo Databricks (by Aline Bonvino)
 # Hands-On LAB 02 - Executando comandos pelo Notebook
 
 Treinamento Hands-on na plataforma Databricks com foco nas funcionalidades de Analytics (SQL, Query, Dask, DataViz, SQL end-point).
